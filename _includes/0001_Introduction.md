@@ -1,3 +1,9 @@
+## 1.0. On the shoulders of Giants
+
+These guidelines take a lot of inspiration (~99.9%) from the original author Dennis Doomen and his awesome work. In fact, this work is a fork from the repository [CSharpGuidelines on github](https://github.com/dennisdoomen/CSharpGuidelines) and only has minor adaptations relevant to us. I have left the majority of references to Aviva Solutions and Dennis Doomen as-is.
+
+In turn, a lot of inspiration was taken from the likes of Martin Fowler, Robert C. Martin (his book Clean Code: A Handbook of Agile Software Craftsmanship), and many others in the industry. We stand on the shoulders of Giants.
+
 ## 1.1. What is this?
 
 This document attempts to provide guidelines (or coding standards if you like) for all versions of C# up to and including 7.3 that are both valuable and pragmatic. Of course, if you create such a document you should practice what you preach. So rest assured, these guidelines are representative to what we at [Aviva Solutions](https://www.avivasolutions.nl) do in our day-to-day work. Notice that not all guidelines have a clear rationale. Some of them are simply choices we made at Aviva Solutions. In the end, it doesn't matter what choice you made, as long as you make one and apply it consistently.
