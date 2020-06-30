@@ -109,20 +109,6 @@ NOTE: Requires Markdown Extra. See http://michelf.ca/projects/php-markdown/extra
 </td>
 <tr>
 
-<table width="100%" class="footer">
-<tr>
-<td>
-  Dennis Doomen
-  Version %semver% (%commitdate%)
-</td>
-<td style="text-align:right">
-  [www.csharpcodingguidelines.com](http://www.csharpcodingguidelines.com)
-  [www.continuousimprover.com](www.continuousimprover.com)
-  [www.avivasolutions.nl](http://www.avivasolutions.nl)
-</td>
-</tr>
-</table>
-
 <table width="100%" style="page-break-before: always;">
  <tr>
   <td class="title" width="70%">Coding Guidelines for C# 1.0 - 7.3 Cheat Sheet</td>
@@ -235,17 +221,3 @@ NOTE: Requires Markdown Extra. See http://michelf.ca/projects/php-markdown/extra
 
 <td/>
 <tr>
-
-<table width="100%" class="footer">
-<tr>
- <td>
-   Dennis Doomen
-   Version %semver% (%commitdate%)
- </td>
- <td style="text-align:right">
-  [www.csharpcodingguidelines.com](http://www.csharpcodingguidelines.com)
-  [www.continuousimprover.com](www.continuousimprover.com)
-  [www.avivasolutions.nl](http://www.avivasolutions.nl)
-  </td>
-</tr>
-</table>
