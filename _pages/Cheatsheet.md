@@ -163,7 +163,7 @@ NOTE: Requires Markdown Extra. See http://michelf.ca/projects/php-markdown/extra
 <br/>
 **Naming**
 
-* Use US English ({{ site.default_rule_prefix }}1701)
+* Use AU English ({{ site.default_rule_prefix }}1701)
 * Don't prefix fields ({{ site.default_rule_prefix }}1705)
 * Don't use abbreviations ({{ site.default_rule_prefix }}1706)
 * Name members, parameters and variables according to their meaning and not their type ({{ site.default_rule_prefix }}1707)
@@ -183,7 +183,7 @@ NOTE: Requires Markdown Extra. See http://michelf.ca/projects/php-markdown/extra
 
 **Documentation**
 
-* Write comments and documentation in US English ({{ site.default_rule_prefix }}2301)
+* Write comments and documentation in AU English ({{ site.default_rule_prefix }}2301)
 * Document all `public`, `protected` and `internal` types and members ({{ site.default_rule_prefix }}2305)
 * Write XML documentation with other developers in mind ({{ site.default_rule_prefix }}2306)
 * Avoid inline comments ({{ site.default_rule_prefix }}2310)
